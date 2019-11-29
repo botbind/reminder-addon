@@ -1,0 +1,12 @@
+{
+  "name": "reminder",
+  "version": "1.0.0",
+  "description": "Use !remindme to have your bot give you custom reminders in the future",
+  "main": "index.js",
+  "peerDependencies": {
+    "@botbind/klasa": "0.5.4-dev"
+  },
+  "keywords": [],
+  "author": "Bot Bind",
+  "license": "ISC"
+}
